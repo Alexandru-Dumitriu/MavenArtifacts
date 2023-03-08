@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.alexdumitriu2001.mavenartifacts.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.alexdumitriu2001.mavenartifacts.MyBundle
 
 class MyApplicationService {
 
